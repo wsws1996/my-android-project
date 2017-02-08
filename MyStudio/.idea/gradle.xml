@@ -12,6 +12,9 @@
             <option value="$PROJECT_DIR$/1.helloworld" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/callphone" />
+            <option value="$PROJECT_DIR$/junit" />
+            <option value="$PROJECT_DIR$/layout" />
+            <option value="$PROJECT_DIR$/logcat" />
             <option value="$PROJECT_DIR$/otherclick" />
           </set>
         </option>

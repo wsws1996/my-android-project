@@ -12,6 +12,10 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     EditText et_number;
 
+    public void callPhoneClick(View view) {
+        System.out.println("bt1被点击了");
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,12 +23,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         et_number = (EditText) findViewById(R.id.et_number);
         Button bt_callphone = (Button) findViewById(R.id.bt_callphone);
         bt_callphone.setOnClickListener(new MyOnclickListener());
-        Button button1 = (Button) findViewById(R.id.button);
+//        Button button1 = (Button) findViewById(R.id.button);
+
         Button button2 = (Button) findViewById(R.id.button2);
         Button button3 = (Button) findViewById(R.id.button3);
         Button button4 = (Button) findViewById(R.id.button4);
         System.out.println("test");
-        button1.setOnClickListener(this);
+//        button1.setOnClickListener(this);
         button2.setOnClickListener(this);
         button3.setOnClickListener(this);
         button4.setOnClickListener(this);
@@ -44,7 +49,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 System.out.println("3333333333333333333333");
                 break;
             case R.id.button4:
-                Toast toast = Toast.makeText(this, "4444444444444444444444444444444444444444", Toast.LENGTH_SHORT);
+                Toast toast = Toast.makeText(this, "4444444444444444444444444444444444444444",
+                        Toast.LENGTH_SHORT);
                 toast.show();
                 break;
             default:

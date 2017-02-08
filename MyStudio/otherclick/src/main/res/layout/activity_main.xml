@@ -48,6 +48,7 @@
         android:text="拨打此号码"/>
 
     <Button
+        android:onClick="callPhoneClick"
         android:text="Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/MyStudio.iml" filepath="$PROJECT_DIR$/MyStudio.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/callphone/callphone.iml" filepath="$PROJECT_DIR$/callphone/callphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit/junit.iml" filepath="$PROJECT_DIR$/junit/junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layout/layout.iml" filepath="$PROJECT_DIR$/layout/layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logcat/logcat.iml" filepath="$PROJECT_DIR$/logcat/logcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/otherclick/otherclick.iml" filepath="$PROJECT_DIR$/otherclick/otherclick.iml" />
     </modules>
   </component>
