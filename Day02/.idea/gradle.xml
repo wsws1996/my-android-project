@@ -9,15 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/1.helloworld" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/callphone" />
-            <option value="$PROJECT_DIR$/junit" />
-            <option value="$PROJECT_DIR$/layout" />
-            <option value="$PROJECT_DIR$/logcat" />
-            <option value="$PROJECT_DIR$/login" />
-            <option value="$PROJECT_DIR$/login_sdcard" />
-            <option value="$PROJECT_DIR$/otherclick" />
+            <option value="$PROJECT_DIR$/permission" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/junit/junit.iml" filepath="$PROJECT_DIR$/junit/junit.iml" />
       <module fileurl="file://$PROJECT_DIR$/layout/layout.iml" filepath="$PROJECT_DIR$/layout/layout.iml" />
       <module fileurl="file://$PROJECT_DIR$/logcat/logcat.iml" filepath="$PROJECT_DIR$/logcat/logcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login_sdcard/login_sdcard.iml" filepath="$PROJECT_DIR$/login_sdcard/login_sdcard.iml" />
       <module fileurl="file://$PROJECT_DIR$/otherclick/otherclick.iml" filepath="$PROJECT_DIR$/otherclick/otherclick.iml" />
     </modules>
   </component>

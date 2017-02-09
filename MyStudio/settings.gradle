@@ -1,1 +1,1 @@
-include ':app', ':1.helloworld', ':callphone', ':otherclick', ':layout', ':junit', ':logcat'
+include ':app', ':1.helloworld', ':callphone', ':otherclick', ':layout', ':junit', ':logcat', ':login', ':login_sdcard'
