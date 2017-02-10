@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">8.xml的生成与解析</string>
+    <string name="backupsms">短信备份</string>
+    <string name="restoresms">短信恢复</string>
+</resources>
