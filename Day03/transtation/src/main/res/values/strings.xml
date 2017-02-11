@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">4.数据库中的事务</string>
+    <string name="transtation">转账</string>
+</resources>
