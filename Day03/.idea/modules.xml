@@ -5,6 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/Day03.iml" filepath="$PROJECT_DIR$/Day03.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/createdatabase/createdatabase.iml" filepath="$PROJECT_DIR$/createdatabase/createdatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news_listview/news_listview.iml" filepath="$PROJECT_DIR$/news_listview/news_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other_adapter/other_adapter.iml" filepath="$PROJECT_DIR$/other_adapter/other_adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strange/strange.iml" filepath="$PROJECT_DIR$/strange/strange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiger/tiger.iml" filepath="$PROJECT_DIR$/tiger/tiger.iml" />
       <module fileurl="file://$PROJECT_DIR$/transtation/transtation.iml" filepath="$PROJECT_DIR$/transtation/transtation.iml" />
     </modules>
   </component>

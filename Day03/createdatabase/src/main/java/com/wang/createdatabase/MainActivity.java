@@ -5,14 +5,19 @@ import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.ListView;
 import android.widget.Toast;
 
+import com.wang.createdatabase.adapter.QueryAdapter;
 import com.wang.createdatabase.bean.InfoBean;
 import com.wang.createdatabase.dao.InfoDao;
+
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private Context mContext;
+    private ListView lv_databases;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +30,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.bt_del).setOnClickListener(this);
         findViewById(R.id.bt_update).setOnClickListener(this);
         findViewById(R.id.bt_query).setOnClickListener(this);
+
+        lv_databases = (ListView) findViewById(R.id.lv_databases);
     }
 
     @Override
@@ -55,7 +62,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Toast.makeText(mContext, "成功修改" + update + "行", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.bt_query:
-                infoDao.query("张三");
+                List<InfoBean> list = infoDao.query("张三");
+                QueryAdapter queryAdapter = new QueryAdapter(mContext, list);
+                lv_databases.setAdapter(queryAdapter);
                 break;
             default:
                 break;

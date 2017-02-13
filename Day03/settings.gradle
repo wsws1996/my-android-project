@@ -1,1 +1,1 @@
-include ':app', ':createdatabase', ':transtation'
+include ':app', ':createdatabase', ':transtation', ':listview', ':tiger', ':strange', ':news_listview', ':other_adapter'
