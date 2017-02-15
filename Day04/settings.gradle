@@ -1,1 +1,1 @@
-include ':sourcelook', ':otherhandller'
+include ':sourcelook', ':otherhandller', ':news_listview'
