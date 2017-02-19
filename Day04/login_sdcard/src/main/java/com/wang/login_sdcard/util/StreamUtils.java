@@ -1,4 +1,4 @@
-package com.wang.news_listview.utils;
+package com.wang.login_sdcard.util;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -20,6 +20,7 @@ public class StreamUtils {
                 out.write(buffer, 0, length);
                 out.flush();
             }
+//            result = new String(out.toByteArray(), "gbk");
             result = out.toString("utf-8");
         } catch (IOException e) {
             e.printStackTrace();

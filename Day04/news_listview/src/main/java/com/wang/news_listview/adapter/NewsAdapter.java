@@ -5,11 +5,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.wang.news_listview.R;
 import com.wang.news_listview.bean.NewsBean;
+import com.wang.news_listview.view.MyImageView;
 
 import java.util.ArrayList;
 
@@ -54,7 +54,7 @@ public class NewsAdapter extends BaseAdapter {
             view = layoutInflater.from(context).inflate(R.layout.item_news_layout, null);
         }
 
-        ImageView item_img_icon = (ImageView) view.findViewById(R.id.item_img_icon);
+        MyImageView item_img_icon = (MyImageView) view.findViewById(R.id.item_img_icon);
         TextView item_tv_des = (TextView) view.findViewById(R.id.item_tv_des);
         TextView item_tv_title = (TextView) view.findViewById(R.id.item_tv_title);
         TextView item_tv_comment = (TextView) view.findViewById(R.id.item_tv_comment);
@@ -62,7 +62,9 @@ public class NewsAdapter extends BaseAdapter {
 
         NewsBean newsBean = list.get(position);
 
-//        item_img_icon.setImageDrawable(newsBean.icon);
+        item_img_icon.setImageUrl(newsBean.icon_url);
+
+
         item_tv_title.setText(newsBean.title);
         item_tv_des.setText(newsBean.des);
         item_tv_comment.setText("评论：" + newsBean.comment);

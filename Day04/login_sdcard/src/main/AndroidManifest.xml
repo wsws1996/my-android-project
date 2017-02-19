@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.wang.news_listview">
+          package="com.wang.login_sdcard">
 
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
     <application
@@ -17,5 +17,6 @@
             </intent-filter>
         </activity>
     </application>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
 
 </manifest>

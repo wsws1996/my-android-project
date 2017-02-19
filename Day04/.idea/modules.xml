@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day04.iml" filepath="$PROJECT_DIR$/Day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login_sdcard/login_sdcard.iml" filepath="$PROJECT_DIR$/login_sdcard/login_sdcard.iml" />
       <module fileurl="file://$PROJECT_DIR$/news_listview/news_listview.iml" filepath="$PROJECT_DIR$/news_listview/news_listview.iml" />
       <module fileurl="file://$PROJECT_DIR$/otherhandller/otherhandller.iml" filepath="$PROJECT_DIR$/otherhandller/otherhandller.iml" />
       <module fileurl="file://$PROJECT_DIR$/sourcelook/sourcelook.iml" filepath="$PROJECT_DIR$/sourcelook/sourcelook.iml" />
