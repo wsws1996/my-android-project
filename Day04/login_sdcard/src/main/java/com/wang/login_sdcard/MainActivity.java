@@ -143,8 +143,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
         Random random = new Random();
         int num = random.nextInt(10);
-        LoginHttpUtils.requestNetForPostLogin(handler, username, password);
-//        LoginHttpUtils.requestNetForGetLogin(handler, username, password);
+//        LoginHttpUtils.requestNetForPostLogin(mContext, handler, username, password);
+        LoginHttpUtils.requestNetForGetLogin(mContext, handler, username, password);
 
     }
 

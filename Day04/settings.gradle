@@ -1,1 +1,1 @@
-include ':sourcelook', ':otherhandller', ':news_listview', ':login_sdcard'
+include ':sourcelook', ':otherhandller', ':news_listview', ':login_sdcard', ':fileupload'
