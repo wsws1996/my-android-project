@@ -11,9 +11,11 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/fileupload" />
             <option value="$PROJECT_DIR$/login_sdcard" />
+            <option value="$PROJECT_DIR$/muchthreaddownload_android" />
             <option value="$PROJECT_DIR$/news_listview" />
             <option value="$PROJECT_DIR$/otherhandller" />
             <option value="$PROJECT_DIR$/sourcelook" />
+            <option value="$PROJECT_DIR$/xutils" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

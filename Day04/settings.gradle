@@ -1,1 +1,1 @@
-include ':sourcelook', ':otherhandller', ':news_listview', ':login_sdcard', ':fileupload'
+include ':sourcelook', ':otherhandller', ':news_listview', ':login_sdcard', ':fileupload', ':muchthreaddownload_android', ':xutils'
