@@ -1,7 +1,8 @@
 package com.wang.sms;
 
-import android.support.v7.app.AppCompatActivity;
+import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -28,7 +29,14 @@ public class MainActivity extends AppCompatActivity {
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                System.out.println("哈哈");
+                String content = objects[position];
+                System.out.println("content:" + content);
+                Intent intent = new Intent();
+                intent.setAction(Intent.ACTION_SEND);
+                intent.addCategory(Intent.CATEGORY_DEFAULT);
+                intent.setType("text/plain");
+                intent.putExtra("sms_body", content);
+                startActivity(intent);
             }
         });
     }

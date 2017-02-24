@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="26513777220655"
+    token="7885492145367140015"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="34" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="26315605558030"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/outputs/apk/_7_Activity的四种启动模式-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="26513777220655"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

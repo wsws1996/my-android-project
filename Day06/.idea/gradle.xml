@@ -9,9 +9,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/_7_Activity的四种启动模式" />
+            <option value="$PROJECT_DIR$/customsms" />
+            <option value="$PROJECT_DIR$/life" />
             <option value="$PROJECT_DIR$/newactivity" />
             <option value="$PROJECT_DIR$/rpcalc" />
             <option value="$PROJECT_DIR$/sms" />
+            <option value="$PROJECT_DIR$/touming" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

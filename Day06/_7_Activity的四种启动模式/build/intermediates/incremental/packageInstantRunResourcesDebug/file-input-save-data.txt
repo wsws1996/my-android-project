@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri Feb 24 14:40:34 CST 2017
+2.base=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_
+5.file=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_
+6.file=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+5.base=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_
+1.file=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_/res/menu-v11/main.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_
+3.file=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_/res/layout/activity_second.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_
+4.file=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,7 @@
+#Fri Feb 24 14:40:34 CST 2017
+base.0=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68d430d2221c9bff8076a13ac0b1cd2044841ea2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6679828136110388e226bb91610bca273cfeb379/classes.dex
+base.1=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6679828136110388e226bb91610bca273cfeb379
+file.0=/home/wang/myproject/my-android-project/Day06/_7_Activity的四种启动模式/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68d430d2221c9bff8076a13ac0b1cd2044841ea2/classes.dex

@@ -1,1 +1,2 @@
-include ':newactivity', ':rpcalc', ':sms'
+include ':newactivity', ':rpcalc', ':sms', ':customsms', ':life', ':touming'
+include ':_7_Activity的四种启动模式'
