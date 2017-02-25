@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day07.iml" filepath="$PROJECT_DIR$/Day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appstate/appstate.iml" filepath="$PROJECT_DIR$/appstate/appstate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootreceiver/bootreceiver.iml" filepath="$PROJECT_DIR$/bootreceiver/bootreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ipdail/ipdail.iml" filepath="$PROJECT_DIR$/ipdail/ipdail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdcardstate/sdcardstate.iml" filepath="$PROJECT_DIR$/sdcardstate/sdcardstate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smslistener/smslistener.iml" filepath="$PROJECT_DIR$/smslistener/smslistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
