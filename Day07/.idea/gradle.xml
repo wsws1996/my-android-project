@@ -11,9 +11,18 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/appstate" />
             <option value="$PROJECT_DIR$/bootreceiver" />
+            <option value="$PROJECT_DIR$/dialog" />
+            <option value="$PROJECT_DIR$/frameanim" />
+            <option value="$PROJECT_DIR$/i18n" />
             <option value="$PROJECT_DIR$/ipdail" />
+            <option value="$PROJECT_DIR$/receivebroadcast" />
+            <option value="$PROJECT_DIR$/receiveorderedbroadcast" />
+            <option value="$PROJECT_DIR$/screen" />
             <option value="$PROJECT_DIR$/sdcardstate" />
+            <option value="$PROJECT_DIR$/sendbroadcast" />
+            <option value="$PROJECT_DIR$/sendorderedbroadcast" />
             <option value="$PROJECT_DIR$/smslistener" />
+            <option value="$PROJECT_DIR$/style_theme" />
             <option value="$PROJECT_DIR$/test" />
           </set>
         </option>
