@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/ipdail" />
             <option value="$PROJECT_DIR$/receivebroadcast" />
             <option value="$PROJECT_DIR$/receiveorderedbroadcast" />
+            <option value="$PROJECT_DIR$/receiveorderedbroadcast2" />
             <option value="$PROJECT_DIR$/screen" />
             <option value="$PROJECT_DIR$/sdcardstate" />
             <option value="$PROJECT_DIR$/sendbroadcast" />

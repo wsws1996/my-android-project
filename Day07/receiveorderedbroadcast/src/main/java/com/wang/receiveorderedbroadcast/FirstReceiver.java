@@ -14,7 +14,6 @@ public class FirstReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
         String content = getResultData();
         Toast.makeText(context, "一：" + content, Toast.LENGTH_LONG).show();
-        abortBroadcast();
-//        setResultData("有序广播500");
+        setResultData((Integer.parseInt(content)-100)+"");
     }
 }

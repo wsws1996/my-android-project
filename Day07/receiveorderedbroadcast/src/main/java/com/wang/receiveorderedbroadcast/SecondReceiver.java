@@ -12,9 +12,10 @@ import android.widget.Toast;
 public class SecondReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
+        abortBroadcast();
         String content = getResultData();
         Toast.makeText(context, "二：" + content, Toast.LENGTH_LONG).show();
 
-        setResultData("有序广播200");
+        setResultData((Integer.parseInt(content)-100)+"");
     }
 }

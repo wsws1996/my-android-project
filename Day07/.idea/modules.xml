@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/ipdail/ipdail.iml" filepath="$PROJECT_DIR$/ipdail/ipdail.iml" />
       <module fileurl="file://$PROJECT_DIR$/receivebroadcast/receivebroadcast.iml" filepath="$PROJECT_DIR$/receivebroadcast/receivebroadcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/receiveorderedbroadcast/receiveorderedbroadcast.iml" filepath="$PROJECT_DIR$/receiveorderedbroadcast/receiveorderedbroadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/receiveorderedbroadcast2/receiveorderedbroadcast2.iml" filepath="$PROJECT_DIR$/receiveorderedbroadcast2/receiveorderedbroadcast2.iml" />
       <module fileurl="file://$PROJECT_DIR$/screen/screen.iml" filepath="$PROJECT_DIR$/screen/screen.iml" />
       <module fileurl="file://$PROJECT_DIR$/sdcardstate/sdcardstate.iml" filepath="$PROJECT_DIR$/sdcardstate/sdcardstate.iml" />
       <module fileurl="file://$PROJECT_DIR$/sendbroadcast/sendbroadcast.iml" filepath="$PROJECT_DIR$/sendbroadcast/sendbroadcast.iml" />

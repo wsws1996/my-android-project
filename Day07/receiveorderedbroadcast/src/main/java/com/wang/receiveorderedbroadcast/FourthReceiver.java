@@ -14,5 +14,6 @@ public class FourthReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
         String content = getResultData();
         Toast.makeText(context, "四：" + content, Toast.LENGTH_LONG).show();
+        setResultData((Integer.parseInt(content)-100)+"");
     }
 }

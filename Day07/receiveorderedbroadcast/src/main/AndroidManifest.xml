@@ -27,12 +27,12 @@
             </intent-filter>
         </receiver>
         <receiver android:name=".ThirdReceiver">
-            <intent-filter android:priority="100">
+            <intent-filter android:priority="600">
                 <action android:name="com.wang.orderedbroadcast"/>
             </intent-filter>
         </receiver>
         <receiver android:name=".FourthReceiver">
-            <intent-filter android:priority="10">
+            <intent-filter android:priority="400">
                 <action android:name="com.wang.orderedbroadcast"/>
             </intent-filter>
         </receiver>

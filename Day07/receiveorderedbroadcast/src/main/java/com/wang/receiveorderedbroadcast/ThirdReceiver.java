@@ -14,6 +14,6 @@ public class ThirdReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
         String content = getResultData();
         Toast.makeText(context,"三："+content,Toast.LENGTH_LONG).show();
-        setResultData("有序广播100");
+        setResultData((Integer.parseInt(content)-100)+"");
     }
 }

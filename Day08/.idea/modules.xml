@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day08.iml" filepath="$PROJECT_DIR$/Day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gupiao/gupiao.iml" filepath="$PROJECT_DIR$/gupiao/gupiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonelistener/phonelistener.iml" filepath="$PROJECT_DIR$/phonelistener/phonelistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registerbroadcast/registerbroadcast.iml" filepath="$PROJECT_DIR$/registerbroadcast/registerbroadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+    </modules>
+  </component>
+</project>

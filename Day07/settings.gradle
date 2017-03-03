@@ -1,1 +1,1 @@
-include ':test', ':ipdail', ':sdcardstate', ':smslistener', ':appstate', ':bootreceiver', ':sendbroadcast', ':receivebroadcast', ':sendorderedbroadcast', ':receiveorderedbroadcast', ':screen', ':style_theme', ':i18n', ':dialog', ':frameanim'
+include ':test', ':ipdail', ':sdcardstate', ':smslistener', ':appstate', ':bootreceiver', ':sendbroadcast', ':receivebroadcast', ':sendorderedbroadcast', ':receiveorderedbroadcast', ':screen', ':style_theme', ':i18n', ':dialog', ':frameanim', ':receiveorderedbroadcast2'

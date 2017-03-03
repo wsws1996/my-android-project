@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
     public void click(View view) {
         Intent intent = new Intent();
         intent.setAction("com.wang.orderedbroadcast");
-        sendOrderedBroadcast(intent, null, new FinalReceiver(), null, 1, "有序广播1000", null);
+        sendOrderedBroadcast(intent, null, new FinalReceiver(), null, 1, "1000", null);
     }
 }
