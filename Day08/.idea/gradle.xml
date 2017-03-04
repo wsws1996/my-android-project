@@ -9,10 +9,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/10.支付" />
+            <option value="$PROJECT_DIR$/11.购买" />
+            <option value="$PROJECT_DIR$/8.远程服务" />
+            <option value="$PROJECT_DIR$/9.本地服务" />
             <option value="$PROJECT_DIR$/gupiao" />
             <option value="$PROJECT_DIR$/phonelistener" />
             <option value="$PROJECT_DIR$/registerbroadcast" />
             <option value="$PROJECT_DIR$/service" />
+            <option value="$PROJECT_DIR$/whybindservice" />
+            <option value="$PROJECT_DIR$/百度音乐盒" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

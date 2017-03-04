@@ -1,1 +1,1 @@
-include ':service', ':gupiao', ':phonelistener', ':registerbroadcast'
+include ':service', ':gupiao', ':phonelistener', ':registerbroadcast', ':whybindservice', ':百度音乐盒', ':8.远程服务', ':9.本地服务', ':10.支付', ':11.购买'

@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/10.支付/10.支付.iml" filepath="$PROJECT_DIR$/10.支付/10.支付.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.购买/11.购买.iml" filepath="$PROJECT_DIR$/11.购买/11.购买.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.远程服务/8.远程服务.iml" filepath="$PROJECT_DIR$/8.远程服务/8.远程服务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.本地服务/9.本地服务.iml" filepath="$PROJECT_DIR$/9.本地服务/9.本地服务.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day08.iml" filepath="$PROJECT_DIR$/Day08.iml" />
       <module fileurl="file://$PROJECT_DIR$/gupiao/gupiao.iml" filepath="$PROJECT_DIR$/gupiao/gupiao.iml" />
       <module fileurl="file://$PROJECT_DIR$/phonelistener/phonelistener.iml" filepath="$PROJECT_DIR$/phonelistener/phonelistener.iml" />
       <module fileurl="file://$PROJECT_DIR$/registerbroadcast/registerbroadcast.iml" filepath="$PROJECT_DIR$/registerbroadcast/registerbroadcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whybindservice/whybindservice.iml" filepath="$PROJECT_DIR$/whybindservice/whybindservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/百度音乐盒/百度音乐盒.iml" filepath="$PROJECT_DIR$/百度音乐盒/百度音乐盒.iml" />
     </modules>
   </component>
 </project>
