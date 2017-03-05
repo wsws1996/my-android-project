@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.创建一个私有的数据库/1.创建一个私有的数据库.iml" filepath="$PROJECT_DIR$/1.创建一个私有的数据库/1.创建一个私有的数据库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.读取第一个应用数据库的数据/2.读取第一个应用数据库的数据.iml" filepath="$PROJECT_DIR$/2.读取第一个应用数据库的数据/2.读取第一个应用数据库的数据.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.短信的备份/3.短信的备份.iml" filepath="$PROJECT_DIR$/3.短信的备份/3.短信的备份.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day09.iml" filepath="$PROJECT_DIR$/Day09.iml" />
+    </modules>
+  </component>
+</project>
