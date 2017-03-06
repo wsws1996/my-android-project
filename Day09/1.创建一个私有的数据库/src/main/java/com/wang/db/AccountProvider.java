@@ -50,6 +50,7 @@ public class AccountProvider extends ContentProvider {
             Cursor cursor = database.query("info", projection, selection, selectionArgs, null,
                     null, sortOrder);
 //            database.close();
+            getContext().getContentResolver().notifyChange(uri, null);
             return cursor;
         } else {
             throw new IllegalArgumentException("uri路径不匹配，请检查路径");
@@ -69,6 +70,9 @@ public class AccountProvider extends ContentProvider {
         if (code == INSERTSUCCESS) {
             SQLiteDatabase database = myOpenHelper.getReadableDatabase();
             long insert = database.insert("info", null, values);
+            if (insert > 0) {
+                getContext().getContentResolver().notifyChange(uri, null);
+            }
             Uri uri1 = Uri.parse("com.wangasdfg/" + insert);
             database.close();
             return uri1;
@@ -84,6 +88,9 @@ public class AccountProvider extends ContentProvider {
         if (code == DELETESUCCESS) {
             SQLiteDatabase database = myOpenHelper.getReadableDatabase();
             int delete = database.delete("info", selection, selectionArgs);
+            if (delete > 0) {
+                getContext().getContentResolver().notifyChange(uri, null);
+            }
             return delete;
         }
         return 0;
@@ -97,6 +104,9 @@ public class AccountProvider extends ContentProvider {
         if (code == UPDATESUCCESS) {
             SQLiteDatabase database = myOpenHelper.getWritableDatabase();
             int update = database.update("info", values, selection, selectionArgs);
+            if (update > 0) {
+                getContext().getContentResolver().notifyChange(uri, null);
+            }
             return update;
         } else {
             throw new IllegalArgumentException("ww:uri路径不匹配，请检查路径");

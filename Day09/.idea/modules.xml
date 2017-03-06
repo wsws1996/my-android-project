@@ -5,6 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/1.创建一个私有的数据库/1.创建一个私有的数据库.iml" filepath="$PROJECT_DIR$/1.创建一个私有的数据库/1.创建一个私有的数据库.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.读取第一个应用数据库的数据/2.读取第一个应用数据库的数据.iml" filepath="$PROJECT_DIR$/2.读取第一个应用数据库的数据/2.读取第一个应用数据库的数据.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.短信的备份/3.短信的备份.iml" filepath="$PROJECT_DIR$/3.短信的备份/3.短信的备份.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.插入数据到短信数据库/4.插入数据到短信数据库.iml" filepath="$PROJECT_DIR$/4.插入数据到短信数据库/4.插入数据到短信数据库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.查询联系人/5.查询联系人.iml" filepath="$PROJECT_DIR$/5.查询联系人/5.查询联系人.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.插入联系人的信息/6.插入联系人的信息.iml" filepath="$PROJECT_DIR$/6.插入联系人的信息/6.插入联系人的信息.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.注册内容观察者/7.注册内容观察者.iml" filepath="$PROJECT_DIR$/7.注册内容观察者/7.注册内容观察者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.短信监听器/8.短信监听器.iml" filepath="$PROJECT_DIR$/8.短信监听器/8.短信监听器.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day09.iml" filepath="$PROJECT_DIR$/Day09.iml" />
     </modules>
   </component>

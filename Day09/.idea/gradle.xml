@@ -11,6 +11,11 @@
             <option value="$PROJECT_DIR$/1.创建一个私有的数据库" />
             <option value="$PROJECT_DIR$/2.读取第一个应用数据库的数据" />
             <option value="$PROJECT_DIR$/3.短信的备份" />
+            <option value="$PROJECT_DIR$/4.插入数据到短信数据库" />
+            <option value="$PROJECT_DIR$/5.查询联系人" />
+            <option value="$PROJECT_DIR$/6.插入联系人的信息" />
+            <option value="$PROJECT_DIR$/7.注册内容观察者" />
+            <option value="$PROJECT_DIR$/8.短信监听器" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
