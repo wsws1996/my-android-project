@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.加载大图片/1.加载大图片.iml" filepath="$PROJECT_DIR$/1.加载大图片/1.加载大图片.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.创建原图的副本/2.创建原图的副本.iml" filepath="$PROJECT_DIR$/2.创建原图的副本/2.创建原图的副本.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.画画板小案例/5.画画板小案例.iml" filepath="$PROJECT_DIR$/5.画画板小案例/5.画画板小案例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day10.iml" filepath="$PROJECT_DIR$/Day10.iml" />
+    </modules>
+  </component>
+</project>
