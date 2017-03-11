@@ -3,9 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.加载大图片/1.加载大图片.iml" filepath="$PROJECT_DIR$/1.加载大图片/1.加载大图片.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.照相和录像/11.照相和录像.iml" filepath="$PROJECT_DIR$/11.照相和录像/11.照相和录像.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.创建原图的副本/2.创建原图的副本.iml" filepath="$PROJECT_DIR$/2.创建原图的副本/2.创建原图的副本.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.画画板小案例/5.画画板小案例.iml" filepath="$PROJECT_DIR$/5.画画板小案例/5.画画板小案例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.撕衣服小案例/6.撕衣服小案例.iml" filepath="$PROJECT_DIR$/6.撕衣服小案例/6.撕衣服小案例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.播放音乐/7.播放音乐.iml" filepath="$PROJECT_DIR$/7.播放音乐/7.播放音乐.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day10.iml" filepath="$PROJECT_DIR$/Day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timer/timer.iml" filepath="$PROJECT_DIR$/timer/timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videoview/videoview.iml" filepath="$PROJECT_DIR$/videoview/videoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio_lib/vitamio_lib.iml" filepath="$PROJECT_DIR$/vitamio_lib/vitamio_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/百度音乐盒/百度音乐盒.iml" filepath="$PROJECT_DIR$/百度音乐盒/百度音乐盒.iml" />
     </modules>
   </component>
 </project>
